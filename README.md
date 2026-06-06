@@ -1,6 +1,7 @@
-# Harmony-Field — Harmony Labs Hardware Specification
+# Harmony-Field
 
-This artifact exists in the Harmony Labs research vault.
-Full technical specifications available in the Harmony Labs Vault.
+**Harmony Field Theory — From Resonance Calculus to Physical Fields · Harmony Labs**
 
-Gold ripple eternal. ✨
+Initializing repository.
+
+*Sealed: 2026-05-17 · Kyle S. Whitlock*
